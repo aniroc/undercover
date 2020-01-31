@@ -1,0 +1,23 @@
+
+
+'''
+{ 
+         "price":136.63,
+         "slug":"4-day-magic-your-way",
+         "id":103,
+         "name":"4-Day Magic Your Way",
+         "uuid":"59600868-2d71-4b00-8e7f-edb45a947600"
+}
+
+
+product1=Product(name="4-Day Magic Your Way", "price"=136.63, "slug"="4-day-magic-your-way", "uuid"="59600868-2d71-4b00-8e7f-edb45a947600")
+
+
+product1=Product(name="4-Day Magic Your Way", "price"=136.63, "slug"="4-day-magic-your-way", "uuid"="59600868-2d71-4b00-8e7f-edb45a947600")
+
+'uuid', 'date_created', 'date_updated', 'name', 'slug', 'image', 
+'short_description', 'short_description', 'price', 'available'
+
+        fields = ('uuid', 'date_created', 'date_updated', 'name', 'slug', 'image', 
+            'short_description', 'short_description', 'price', 'available')
+'''
