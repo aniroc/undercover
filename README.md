@@ -1,5 +1,7 @@
 #Undercover
 
+Shopping Cart setup instructions:
+
 Django
 Postgres:  Postgres.app V12 (on Mac)
 
